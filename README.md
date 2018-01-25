@@ -1,4 +1,4 @@
-(Click links with middle mouse button to open in a new tab)
+>Click links with the middle mouse-button to open in a new tab
 
 [Git-Guide](https://rogerdudler.github.io/git-guide/)
 
