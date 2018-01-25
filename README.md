@@ -1,3 +1,5 @@
+[Git-Guide](https://rogerdudler.github.io/git-guide/)
+
 [GitHub Cheat Sheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 
 [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
